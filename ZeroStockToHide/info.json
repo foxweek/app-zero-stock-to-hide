@@ -1,0 +1,12 @@
+{
+	"name": "Zero Stock To Hide",
+	"handle": "ZeroStockToHide",
+	"info": "Hides products from your store automatically when out of stock",
+	"settings": false,
+	"docs": "https://github.com/sellfino/app-zero-stock-to-hide",
+	"author": {
+		"name": "Lucas • Sellfino",
+		"url": "https://www.sellfino.com"
+	},
+  "version": "1.0.0"
+}
